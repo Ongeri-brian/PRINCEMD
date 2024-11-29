@@ -1,7 +1,7 @@
 {
   "name": "PRINCEMD",
   "description": "whatsapp user bot",
-  "repository": "https://github.com/DASTAGHIR/PRINCEMD",
+  "repository": "https://github.com/Ongeri-brian/PRINCEMD",
   "logo": "https://qu.ax/igJFS.png",
   "success_url": "https://github.com/DASTAGHIR/PRINCEMD",
   "keywords": [
@@ -12,9 +12,9 @@
   "stack": "container",
   "env": {
     "OWNERS": {
-      "description": "put your Number as Owner",
+      "description": "254713145618",
       "required": true,
-      "value": "923092668108;❣️DASTAGEER"
+      "value": "254713145618 ; Ongeri💜💜"
     },
     "MODE": {
       "description": "mode public or private",
@@ -24,7 +24,7 @@
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "."
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
@@ -99,7 +99,7 @@
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": ""
+      "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidUpveEd6SG1kRWhVK0hKSnBjeUdhdWFPcnpyVnN1cEc0Rk9TNkR5WTUwND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMnpvazFicGtqUzdkK0JCZFJSQjBxNzJLY3hDMU0wdEV1ZUtMS2czQXdpbz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJZTjhrblVrTUpTT0haNXlXZUpSUXBQZVMzd3NFaWZ0Zm5lTTVzT09QYWtRPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJoMGFhN0JYdFU0dzBud3ZvUWtrQ1d4ZkFveGxVSWp4bUljSE1iNFFueDI4PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Im9LQ1ZLVWN5UUV0MUlaL3U2anY4ZlBxSW1vb2dDd3ZSd1lzcHlDTjg5RnM9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImE4L3N0YVV4SkZ3Y00rZVNxQ2hqTkNmc1BqZjFjS0ZXR3lhWDN3VEZ4V1k9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoic0lXUDJWZXl0QUhwT2FsVjRZSkdQbUNsV2o5NUlpNXRvT25QdXVxejMwdz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiT2lrYklZV0ZCQ2VzRXlxYnlucEpHa0phdm04VFlFSkxiVjVYc1UxaXVsND0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImJoMnUzWXJGOE5rQUxITElmelhMM2N1VU0zYms5M3B6SzQvS0pNblVmK2hlUkxGMm53Q2xWYm5yZFJPSnYxQ0JubGxucStjdVVJbWFjWkJIS1VKampBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjA3LCJhZHZTZWNyZXRLZXkiOiIwVXNITUorbE9GMVNsbldrb1prM1JMbUFZbk5UNUFtdlBoTlA0M1VFZlVVPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwicmVnaXN0ZXJlZCI6dHJ1ZSwicGFpcmluZ0NvZGUiOiJSMlJHU1A1USIsIm1lIjp7ImlkIjoiMjU0NzEzMTQ1NjE4OjY2QHMud2hhdHNhcHAubmV0IiwibGlkIjoiNDA5MjY5OTUwNjI4Mjk6NjZAbGlkIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNKSzYzTUVGRUptUXA3b0dHQThnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJQaWdXd29KUStWSjZXNFpTK3Q1emdoc29RZGdycHQ1UlppY3hCYlVDOHc4PSIsImFjY291bnRTaWduYXR1cmUiOiJiVDJlNDdLeEFONnMrYTV3RTlNQkFLRGljV0t1OFBqT3ozODhlMWNodHNqdlBjWWVYQjlndWtMZEhKTm92cEZKM0FXYms1WlpBZEE4UFB0Tjcyb1RCUT09IiwiZGV2aWNlU2lnbmF0dXJlIjoiT1Y1RzI1OGsyUXFqZDdaVlJMV2RZZTY3aWtiWFlmOXBPK1BKQyt4emJ1MjlNNTNIVzN2bExoR1IrdjUwZWtiZGI2RWdZT0hvMGpUdXBkdG9aYkVVZ2c9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyNTQ3MTMxNDU2MTg6NjZAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCVDRvRnNLQ1VQbFNlbHVHVXZyZWM0SWJLRUhZSzZiZVVXWW5NUVcxQXZNUCJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsInJvdXRpbmdJbmZvIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0JJSUJRPT0ifSwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzMyODg4NjE1LCJsYXN0UHJvcEhhc2giOiJEN1FGUSJ9"
     }
   },
   "buildpacks": [
